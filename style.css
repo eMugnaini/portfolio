@@ -35,7 +35,7 @@ img.profile {
 #about,
 #skills,
 #projects {
-  padding: 2em;
+  padding: 1em 2em;
 }
 
 
@@ -63,6 +63,20 @@ li {
 
 h2 {
 text-align: center;
+}
+
+details summary {
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 6px 0;
+}
+
+details p a {
+  display: inline-block;
+  margin-top: 8px;
+  font-weight: bold;
+  text-decoration: underline;
 }
   
 .fiverr-link {
