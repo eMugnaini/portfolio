@@ -44,3 +44,8 @@ progress {
   border: solid 2px black;
   background-color: #F4F4F4;
   color: black;
+}
+
+.bio {
+  text-align: center;
+}
