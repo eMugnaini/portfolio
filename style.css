@@ -32,6 +32,12 @@ img.profile {
   margin: auto;
 }
 
+#about,
+#skills,
+#projects {
+  padding: 2em;
+}
+
 
 .bio {
  text-align: center;
