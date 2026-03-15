@@ -1,12 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap");
 
 body {
-  font-family: "Courier Prime";
-  monospace: 0px;
-  margin: 0px;
-  padding: 0px;
+  font-family: "Courier Prime", monospace;
   background-color: #F4F4F4;
   color: black;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
 header {
@@ -59,6 +59,10 @@ li {
   border: 1px solid black;
   border-radius: 20px;
   font-size: 14px;
+}
+
+h2 {
+text-align: center;
 }
   
 .fiverr-link {
